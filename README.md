@@ -1,4 +1,4 @@
-# vue-tradingview
+# tradingview
 
 ## Project setup
 ```
